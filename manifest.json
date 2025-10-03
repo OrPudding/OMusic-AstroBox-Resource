@@ -1,0 +1,43 @@
+{
+  "item": {
+    "name": "OMusic",
+    "description": "一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。支持在线流媒体、本地下载、多语种歌词、自定义设置等功能。项目遵循 AGPLv3 协议开源。",
+    "preview": [
+      "preview_player.png",
+      "preview_lyrics.png",
+      "preview_menu.png",
+      "preview_list.png",
+      "preview_search.png",
+      "preview_settings.png",
+      "preview_user.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/OrPudding/OMusic",
+    "author": [{
+      "name": "OrPudding",
+      "author_url": "https://github.com/OrPudding"
+    }]
+  },
+  "downloads": {
+    "n62": {
+      "version": "1.0.0",
+      "file_name": "OMusic_v1.0.rpk"
+    },
+    "o62": {
+      "version": "1.0.0",
+      "file_name": "OMusic_v1.0.rpk"
+    },
+    "o62m": {
+      "version": "1.0.0",
+      "file_name": "OMusic_v1.0.rpk"
+    },
+    "o65": {
+      "version": "1.0.0",
+      "file_name": "OMusic_v1.0.rpk"
+    },
+    "o65m": {
+      "version": "1.0.0",
+      "file_name": "OMusic_v1.0.rpk"
+    }
+  }
+}
