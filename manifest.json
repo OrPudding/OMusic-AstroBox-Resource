@@ -1,7 +1,7 @@
 {
   "item": {
     "name": "OMusic",
-    "description": "特别感谢 @池焕 设计的banner和icon\n一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。\n支持在线流媒体、本地下载、多语种歌词、自定义设置等功能。项目遵循 AGPLv3 协议开源。",
+    "description": "特别感谢 @池焕 设计的banner和icon\n一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。\n支持在线流媒体、本地下载、多语种歌词、自定义设置等功能。国庆特惠售价4.99，原价6.99元。",
     "preview": [
       "preview_player.png",
       "preview_lyrics.png",
@@ -12,7 +12,7 @@
       "preview_user.png"
     ],
     "icon": "icon.png",
-    "source_url": "https://github.com/OrPudding/OMusic",
+    "source_url": "",
     "author": [{
       "name": "OrPudding",
       "author_url": "https://github.com/OrPudding"
