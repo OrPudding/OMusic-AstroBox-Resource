@@ -13,31 +13,37 @@
     ],
     "icon": "icon.png",
     "source_url": "",
-    "author": [{
-      "name": "OrPudding",
-      "author_url": "https://github.com/OrPudding"
-    }]
+    "author": [
+      {
+        "name": "OrPudding",
+        "author_url": "https://github.com/OrPudding"
+      }
+    ]
   },
   "downloads": {
     "n62": {
-      "version": "1.0.0",
-      "file_name": "OMusic_v1.0.rpk"
+      "version": "1.2.0",
+      "file_name": "moe.orpu.omusic.release.1.2.rpk"
     },
     "o62": {
-      "version": "1.0.0",
-      "file_name": "OMusic_v1.0.rpk"
+      "version": "1.2.0",
+      "file_name": "moe.orpu.omusic.release.1.2.rpk"
     },
     "o62m": {
-      "version": "1.0.0",
-      "file_name": "OMusic_v1.0.rpk"
+      "version": "1.2.0",
+      "file_name": "moe.orpu.omusic.release.1.2.rpk"
     },
     "o65": {
-      "version": "1.0.0",
-      "file_name": "OMusic_v1.0.rpk"
+      "version": "1.2.0",
+      "file_name": "moe.orpu.omusic.release.1.2.rpk"
     },
     "o65m": {
-      "version": "1.0.0",
-      "file_name": "OMusic_v1.0.rpk"
+      "version": "1.2.0",
+      "file_name": "moe.orpu.omusic.release.1.2.rpk"
+    },
+    "p65": {
+      "version": "1.2.0",
+      "file_name": "moe.orpu.omusic.release.1.2.rpk"
     }
   }
 }
