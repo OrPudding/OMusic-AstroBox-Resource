@@ -1,18 +1,19 @@
 {
   "item": {
     "name": "OMusic",
-    "description": "特别感谢 @池焕 设计的banner和icon\n一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。\n支持在线流媒体、本地下载、多语种歌词、自定义设置等功能。售价4.99元。",
+    "description": "特别感谢 @VanguardHello_ 带来的全新 Material Design 3 设计\n一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。\n支持在线流媒体、批量下载、每日推荐、私人FM、快捷手势、多语种歌词、自定义设置等功能。售价4.99元。",
     "preview": [
-      "preview_player.png",
-      "preview_lyrics.png",
-      "preview_menu.png",
-      "preview_list.png",
-      "preview_search.png",
-      "preview_settings.png",
-      "preview_user.png"
+      "vela5_rw-2026-01-01-02-33-32.png",
+      "vela5_rw-2026-01-01-02-35-08.png",
+      "vela5_rw-2026-01-01-02-35-32.png",
+      "vela5_rw-2026-01-01-02-38-00.png",
+      "vela5_s4-2026-01-01-03-00-59.png",
+      "vela5_s4-2026-01-01-03-01-10.png",
+      "vela5_s4-2026-01-01-03-01-19.png",
+      "vela5_s4-2026-01-01-03-01-33.png"
     ],
     "icon": "icon.png",
-    "source_url": "",
+    "source_url": "https://github.com/OrPudding/OMusic",
     "author": [
       {
         "name": "OrPudding",
@@ -22,28 +23,28 @@
   },
   "downloads": {
     "n62": {
-      "version": "1.32",
-      "file_name": "moe.orpu.omusic.release.1.32.rpk"
+      "version": "26.1.1",
+      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
     },
     "o62": {
-      "version": "1.32",
-      "file_name": "moe.orpu.omusic.release.1.32.rpk"
+      "version": "26.1.1",
+      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
     },
     "o62m": {
-      "version": "1.32",
-      "file_name": "moe.orpu.omusic.release.1.32.rpk"
+      "version": "26.1.1",
+      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
     },
     "o65": {
-      "version": "1.32",
-      "file_name": "moe.orpu.omusic.release.1.32.rpk"
+      "version": "26.1.1",
+      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
     },
     "o65m": {
-      "version": "1.32",
-      "file_name": "moe.orpu.omusic.release.1.32.rpk"
+      "version": "26.1.1",
+      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
     },
     "p65": {
-      "version": "1.32",
-      "file_name": "moe.orpu.omusic.release.1.32.rpk"
+      "version": "26.1.1",
+      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
     }
   }
 }
