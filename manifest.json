@@ -1,7 +1,7 @@
 {
   "item": {
     "name": "OMusic",
-    "description": "特别感谢 @VanguardHello_ 带来的全新 Material Design 3 设计\n一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。\n支持在线流媒体、批量下载、每日推荐、私人FM、快捷手势、多语种歌词、自定义设置等功能。售价4.99元。",
+    "description": "特别感谢 @VanguardHello_ 带来的全新 Material Design 3 设计\n一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。\n支持在线流媒体、批量下载、存储空间管理、每日推荐、私人FM、快捷手势、多语种歌词、自定义设置等功能。售价4.99元。",
     "preview": [
       "vela5_rw-2026-01-01-02-33-32.png",
       "vela5_rw-2026-01-01-02-35-08.png",
@@ -23,28 +23,28 @@
   },
   "downloads": {
     "n62": {
-      "version": "26.1.1",
-      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
+      "version": "26.1.7",
+      "file_name": "moe.orpu.omusic.release.26.1.7.rpk"
     },
     "o62": {
-      "version": "26.1.1",
-      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
+      "version": "26.1.7",
+      "file_name": "moe.orpu.omusic.release.26.1.7.rpk"
     },
     "o62m": {
-      "version": "26.1.1",
-      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
+      "version": "26.1.7",
+      "file_name": "moe.orpu.omusic.release.26.1.7.rpk"
     },
     "o65": {
-      "version": "26.1.1",
-      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
+      "version": "26.1.7",
+      "file_name": "moe.orpu.omusic.release.26.1.7.rpk"
     },
     "o65m": {
-      "version": "26.1.1",
-      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
+      "version": "26.1.7",
+      "file_name": "moe.orpu.omusic.release.26.1.7.rpk"
     },
     "p65": {
-      "version": "26.1.1",
-      "file_name": "moe.orpu.omusic.release.26.1.1.rpk"
+      "version": "26.1.7",
+      "file_name": "moe.orpu.omusic.release.26.1.7.rpk"
     }
   }
 }
