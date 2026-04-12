@@ -1,5 +1,7 @@
 {
   "item": {
+    "id": "moe.orpu.omusic",
+    "restype": "quick_app",
     "name": "OMusic",
     "description": "特别感谢 @VanguardHello_ 带来的全新 Material Design 3 设计\n一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。\n支持在线流媒体、批量下载、存储空间管理、每日推荐、私人FM、快捷手势、多语种歌词、自定义设置等功能。售价4.99元。",
     "preview": [
@@ -13,42 +15,50 @@
       "vela5_s4-2026-01-01-03-01-33.png"
     ],
     "icon": "icon.png",
-    "source_url": "https://github.com/OrPudding/OMusic",
+    "cover": "cover.png",
     "author": [
       {
         "name": "OrPudding",
-        "author_url": "https://github.com/OrPudding"
+        "bindABAccount": true
       }
     ]
   },
+  "links": [
+    {
+      "icon": "github-logo",
+      "title": "开源地址",
+      "url": "https://github.com/OrPudding/OMusic"
+    }
+  ],
   "downloads": {
-    "n62": {
+    "xmws3": {
       "version": "26.3.1-fix",
       "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
     },
-    "o62": {
+    "xmws4": {
       "version": "26.3.1-fix",
       "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
     },
-    "o62m": {
+    "xmws4xring": {
       "version": "26.3.1-fix",
       "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
     },
-    "o65": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
-    },
-    "o65m": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
-    },
-    "p65": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
-    },
-    "p62": {
+    "xmws5": {
       "version": "26.3.1-fix",
       "file_name": "s5_moe.orpu.omusic.release.26.3.1-fix.rpk"
+    },
+    "xmrw5": {
+      "version": "26.3.1-fix",
+      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
+    },
+    "xmrw5xring": {
+      "version": "26.3.1-fix",
+      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
+    },
+    "xmrw6": {
+      "version": "26.3.1-fix",
+      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
     }
-  }
+  },
+  "ext": {}
 }
